@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+    font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+    text-align: right;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: right;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.logo {
+    margin-top: 30px;
+}
+
+.centered-work {
+    text-align: center;
+}
+
+.colored-row {
+    background-color: white;
+}
